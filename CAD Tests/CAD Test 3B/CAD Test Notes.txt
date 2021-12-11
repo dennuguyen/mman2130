@@ -1,0 +1,11 @@
+Fasteners used: 
+MACHINE SCREWS
+ - M8 Hex Screw Grade C AS 1111.2 (length 25mm)
+
+Be careful that you line up all parts correctly - all parts should fit together nicely.
+Note:
+- The MOUNT part should insert flush into the wheel
+- All groves and features must align
+- The WHEEL must be able to spin freely
+
+Your BOM only needs to include ITEM NO., PART NAME and QTY
